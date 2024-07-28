@@ -9,11 +9,12 @@ Calculates and displays the total amount for the order.
 Handles scenarios where an item is not available.
 
 #### Menu
-![image](https://github.com/user-attachments/assets/1d40e365-c706-4aa4-955b-3ceb28cd9bba)
+![image](https://github.com/user-attachments/assets/f13e3d6b-7f5d-4264-96ae-fccdf3dc43fb)
+
 
 ### How to Run this Program
 You can clone this project using the link
-git clone https://github.com/Geethapallavi312/cafe-management-system.git
+git clone https://github.com/Geethapallavi312/Cafe-Management-System-using-Python.git
 You can download this project here and run in any python IDE
 
 ### Usage
