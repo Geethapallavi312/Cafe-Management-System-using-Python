@@ -9,14 +9,5 @@ Calculates and displays the total amount for the order.
 Handles scenarios where an item is not available.
 
 #### Menu
-Item	Price (Rs)
-Cheese Pizza	250 /n
-Corn Pizza	300
-Panner Pizza	350
-White Sauce Pasta	169
-Red Sauce Pasta	150
-Fruit Salad	80
-Coffee	50
-Bread	60
-Coke	120
-Water Bottle	20
+![image](https://github.com/user-attachments/assets/1d40e365-c706-4aa4-955b-3ceb28cd9bba)
+
